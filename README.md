@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/kevinhmaruli/blog-preview-card)
-- Live Site URL: [Live Site](https://blog-preview-card-j3x4am2vi-kevinhmarulis-projects.vercel.app/)
+- Live Site URL: [Live Site](https://blog-preview-card-git-main-kevinhmarulis-projects.vercel.app/)
 
 ## My process
 
